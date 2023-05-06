@@ -1,0 +1,49 @@
+.maincontainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.cain{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+.peraghrap{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.signuplink{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.btnlogin{
+    display: block;
+    margin-top: 3rem;
+   margin-left: 13rem;
+   width: 15rem;
+
+}
+.btnlogin:hover{
+    background-color: gold;
+}
+
+.first-inp{
+    display: block;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.abc{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 10rem;
+}
